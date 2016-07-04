@@ -1,5 +1,5 @@
 package com.miguel.HYIP.core;
 
-public class InvestJob extends HYIP {
+public class InvestJob implements HYIP {
 
 }
